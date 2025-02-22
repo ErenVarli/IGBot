@@ -101,9 +101,6 @@ The bot will:
 - **Use Responsibly:** Automating actions on Instagram violates Instagram's Terms of Service. Use responsibly and at your own risk.  
 - **Privacy Concerns:** Ensure you comply with privacy policies and avoid any unethical usage.
 
-## License  
-This project is licensed under the MIT License.  
-
 ---
 
 ## Acknowledgements  
